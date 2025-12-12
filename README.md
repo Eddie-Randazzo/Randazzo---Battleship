@@ -15,8 +15,8 @@ This project implements the classic two-player Battleship game in a Python Comma
 
 1.  **Clone the repository:**
     ```bash
-    git clone https://github.com/Eddie-Randazzo/Final-Project---Battleship
-    cd Final-Project---Battleship
+    git clone https://github.com/Eddie-Randazzo/Randazzo---Battleship
+    cd Randazzo---Battleship
     ```
 2.  **Navigate to the source directory:**
     ```bash
